@@ -18,3 +18,5 @@ Stats:
 I Am A 14yr old coder that sevelopes some cheats for diffrent games and 
 
 ## Deff For Educational purposes ৻(  •̀ ᗜ •́  ৻)
+
+<a href="https://hits.sh/github.com/SYFER-eng/"><img alt="Hits" src="https://hits.sh/github.com/SYFER-eng.svg?style=for-the-badge&label=Views&color=a909b3&labelColor=000000"/></a>
