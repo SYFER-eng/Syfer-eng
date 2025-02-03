@@ -1,6 +1,5 @@
-## ꧁༺ 𝓢𝔂𝓯𝓮𝓻-𝓮𝓷𝓰 ༻꧂
+# ꧁༺ 𝓢𝔂𝓯𝓮𝓻-𝓮𝓷𝓰 ༻꧂
 
-# Deff For Educational purposes ৻(  •̀ ᗜ •́  ৻)
 
 i work on websites, batch files, lua, C++, Dll and i think thats it i am currently working on a cs2 cheat that is for windows that is a aimbot and thats it ill add it to github soon!
 
@@ -18,3 +17,5 @@ Stats:
 
 
 I Am A 14yr old coder that sevelopes some cheats for diffrent games and 
+
+## Deff For Educational purposes ৻(  •̀ ᗜ •́  ৻)
