@@ -10,3 +10,7 @@ i work on websites, batch files, lua, C++, Dll and i think thats it i am current
 I Am A 14yr old coder that sevelopes some cheats for diffrent games and 
 
 ## Deff For Educational purposes ৻(  •̀ ᗜ •́  ৻)
+
+
+
+<a href="https://drive.google.com/file/d/1joB-F1BS8IuTatp_SeJR7Qy-vWP6kwXT/preview" alt="GitHub Streak" /></a>
