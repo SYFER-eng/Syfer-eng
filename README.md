@@ -2,8 +2,8 @@
 
 
 i work on websites, batch files, lua, C++, Dll and i think thats it i am currently working on a cs2 cheat that is for windows that is a aimbot and thats it ill add it to github soon! Its a internal and will have its own injector, and i am making a external!
-
-
+[[External](d)](https://github.com/SYFER-eng/Counter_Strike_Helper-External)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SYFER-eng&theme=matrix)](https://github.com/Syfer-eng)
 <a href="https://github.com/Syfer-eng"><img src="https://streak-stats.demolab.com?user=SYFER-eng&theme=burnt-neon" alt="GitHub Streak" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SYFER-eng&theme=matrix)](https://github.com/Syfer-eng)
