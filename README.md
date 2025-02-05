@@ -8,7 +8,7 @@ External Done And Down Below ↓ ↓ ↓‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ �
 
 [꧁༺ 𝓔𝔁𝓽𝓮𝓻𝓷𝓪𝓵 𝓦𝓲𝓽𝓱 𝓜𝓮𝓷𝓾 ༻꧂](https://github.com/SYFER-eng/Cs2-External-With-Menu)
 
-<a href="https://github.com/Syfer-eng"><img src="https://streak-stats.demolab.com?user=SYFER-eng&theme=burnt-neon" alt="GitHub Streak" /></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syfer-eng&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SYFER-eng&theme=matrix)](https://github.com/Syfer-eng)
 
