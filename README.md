@@ -6,7 +6,7 @@ i work on websites, batch files, lua, C++, Dll and i think thats it i am current
 External Done And Down Below ↓ ↓ ↓‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 [꧁༺ 𝓔𝔁𝓽𝓮𝓻𝓷𝓪𝓵 (𝓬𝓼2) ༻꧂](https://github.com/SYFER-eng/Counter_Strike_Helper-External)
 
-[꧁༺ 𝓔𝔁𝓽𝓮𝓻𝓷𝓪𝓵 𝓦𝓲𝓽𝓱 𝓜𝓮𝓷𝓾 ༻꧂](https://github.com/SYFER-eng/Cs2-External-With-Menu))
+[꧁༺ 𝓔𝔁𝓽𝓮𝓻𝓷𝓪𝓵 𝓦𝓲𝓽𝓱 𝓜𝓮𝓷𝓾 ༻꧂](https://github.com/SYFER-eng/Cs2-External-With-Menu)
 
 <a href="https://github.com/Syfer-eng"><img src="https://streak-stats.demolab.com?user=SYFER-eng&theme=burnt-neon" alt="GitHub Streak" /></a>
 
